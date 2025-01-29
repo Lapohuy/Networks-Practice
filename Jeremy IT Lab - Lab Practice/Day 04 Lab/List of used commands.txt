@@ -1,0 +1,8 @@
+1. en -> conf t -> hostname R1 / SW1
+2. enable password CCNA
+4. do show running-config
+5. service password-encryption
+6. do show running-config
+7. enable secret CISCO
+9. do show running-config
+10. do copy running-config startup-config
